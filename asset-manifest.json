@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c8a6465f.css",
+    "main.js": "/portfolio/static/js/main.89e2806a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/booksearch.png": "/portfolio/static/media/booksearch.e8c44fe86dacd1b8ff20.png",
+    "static/media/kevin.jpeg": "/portfolio/static/media/kevin.943aa002d0cdd755f364.jpeg",
+    "static/media/swapmeet.png": "/portfolio/static/media/swapmeet.b56e857820f06a12a3bd.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.f992f29dbfd3600fcc1b.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/monstera.png": "/portfolio/static/media/monstera.f6dde108ee028cbb6b1f.png",
+    "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Kevin_Lawrence_resume.pdf": "/portfolio/static/media/Kevin_Lawrence_resume.9a49f8a48c4ecbe589a5.pdf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/budget.png": "/portfolio/static/media/budget.f2cd16c3b8f9baa484c6.png",
+    "static/media/weatherApp.png": "/portfolio/static/media/weatherApp.3d4b7228d27799fa849a.png",
+    "static/media/note.png": "/portfolio/static/media/note.1b392983f035fcc63f06.png",
+    "index.html": "/portfolio/index.html",
+    "main.c8a6465f.css.map": "/portfolio/static/css/main.c8a6465f.css.map",
+    "main.89e2806a.js.map": "/portfolio/static/js/main.89e2806a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a6465f.css",
+    "static/js/main.89e2806a.js"
+  ]
+}
