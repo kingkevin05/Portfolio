@@ -60,11 +60,9 @@ function Projects() {
                   gutterBottom
                   component="div"
                 >
-                  An application I'm currently working on for my partner Simmy's
-                  permanent eyebrow treatment business called The Browformation.
                   The App allows the user to learn about micro blading such as
-                  the process, and the healing timeline. The user will also be
-                  able to book appointments with Simmy to get their eyebrows
+                  what is, the process, and the healing timeline. The user will
+                  also be able to book appointments online to get their eyebrows
                   done.
                 </Typography>
                 <Typography
