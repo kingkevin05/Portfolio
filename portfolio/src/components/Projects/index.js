@@ -61,7 +61,7 @@ function Projects() {
                   component="div"
                 >
                   The App allows the user to learn about micro blading such as
-                  what is, the process, and the healing timeline. The user will
+                  what it is, the process, and the healing timeline. The user will
                   also be able to book appointments online to get their eyebrows
                   done.
                 </Typography>
@@ -229,7 +229,7 @@ function Projects() {
           </Grid>
         </Card>
 
-        <Card
+        {/* <Card
           sx={{ maxWidth: 300 }}
           style={{ margin: "1rem" }}
           className="shadow"
@@ -293,9 +293,9 @@ function Projects() {
               </Button>
             </CardActions>
           </Grid>
-        </Card>
+        </Card> */}
 
-        <Card
+        {/* <Card
           sx={{ maxWidth: 300 }}
           style={{ margin: "1rem" }}
           className="shadow"
@@ -353,9 +353,9 @@ function Projects() {
               </Button>
             </CardActions>
           </Grid>
-        </Card>
+        </Card> */}
 
-        <Card
+        {/* <Card
           sx={{ maxWidth: 300 }}
           style={{ margin: "1rem" }}
           className="shadow"
@@ -419,7 +419,7 @@ function Projects() {
               </Button>
             </CardActions>
           </Grid>
-        </Card>
+        </Card> */}
 
         <Card
           sx={{ maxWidth: 300 }}
@@ -488,7 +488,7 @@ function Projects() {
           </Grid>
         </Card>
 
-        <Card
+        {/* <Card
           sx={{ maxWidth: 300 }}
           style={{ margin: "1rem" }}
           className="shadow"
@@ -551,7 +551,7 @@ function Projects() {
               </Button>
             </CardActions>
           </Grid>
-        </Card>
+        </Card> */}
       </Grid>
     </section>
   );
